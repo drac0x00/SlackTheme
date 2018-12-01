@@ -1,2 +1,3 @@
+Copy and paste this into the Slack Hex field.
 #212420,#333632,#87CF3E,#FFFFFF,#393d39,#FFFFFF,#87CF3E,#68a030
 
